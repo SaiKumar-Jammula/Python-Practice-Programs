@@ -28,15 +28,13 @@
 # f.close
 
 
-# def main():
-#     f1=open("sai.jpeg","rb")
-#     f2=open("new.jpeg","wb")
-#     bytes=f1.read()
-#     f2.write(bytes)
-#     print("image is copied successfully")
-#     f1.close()
-#     f2.close()
-# main()
+def main():
+     f1=open("sai.jpeg","rb")
+     bytes=f1.read()
+     print(f1)
+
+
+main()
 
 
 # def main():
@@ -86,6 +84,7 @@
 
 # # Call the main function
 # main()
+'''
 class teacher:
     def setId(self,x):
         self.id=x
@@ -117,7 +116,7 @@ print("marks is:",s.getmarks())
 
 
 
-
+'''
 
 
 
