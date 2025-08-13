@@ -1,0 +1,3 @@
+hello.
+this is example file
+third line

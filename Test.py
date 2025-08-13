@@ -1,7 +1,6 @@
-
-import random , string
-abc=string.ascii_lowercase
-
-print(random.choice(abc))
-print(random.choices(abc,k=5))
-print("".join(random.choices(abc,k=5)))
+try:
+    with open("myfile.txt", "r") as file:
+        for index,line in enumerate(file,start=100):
+            print(index,line)
+except FileNotFoundError:
+    print("THE FILE IS NOT FOUND")

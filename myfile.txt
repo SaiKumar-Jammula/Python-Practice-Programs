@@ -1,0 +1,7 @@
+Pancake
+Ingredients: Flour , Milk , egs , Sugar
+Instructions : Mix the Ingredients
+
+Salad
+Ingredients: Flour , Milk , egs , Sugar
+Instructions : Chop and Mix

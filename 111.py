@@ -84,7 +84,6 @@ main()
 
 # # Call the main function
 # main()
-'''
 class teacher:
     def setId(self,x):
         self.id=x
@@ -115,8 +114,6 @@ print("marks is:",s.getmarks())
 
 
 
-
-'''
 
 
 
